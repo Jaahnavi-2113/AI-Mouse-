@@ -1,1 +1,2 @@
 # AI-Mouse-
+mouse control system using Python and OpenCV that allows users to control mouse movements and perform basic clicking actions based on their hand gestures. The system uses OpenCV to track specific  hand movements in real time. By detecting the user's hands via the webcam, the AI algorithm interprets the gestures and translates them into corresponding mouse movements, such as moving the cursor or performing clicks.
